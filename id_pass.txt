@@ -1,0 +1,3 @@
+學生 id st pass 1
+教師 id  ch pass 2
+校長 id  pr pass 3
